@@ -4,7 +4,7 @@ This project is a simulation of the classic board game Monopoly. It aims to recr
 
 # Usage
 
-python3 board.py <strategy> <rolls>
+`python3 board.py [strategy] [rolls]`
 
 strategy [int]: 1 or 2
 rolls [int]: positive integers only
